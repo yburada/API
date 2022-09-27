@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-27T13:20:51 IST" name="Default suite" finished-at="2022-09-27T13:20:58 IST" duration-ms="7553">
+    <groups>
+    </groups>
+    <test started-at="2022-09-27T13:20:51 IST" name="Default test" finished-at="2022-09-27T13:20:58 IST" duration-ms="7553">
+      <class name="allianz.example_3_Post">
+        <test-method signature="post(java.lang.String,java.lang.String)[pri:0, instance:allianz.example_3_Post@6283d8b8]" started-at="2022-09-27T13:20:52 IST" name="post" data-provider="userdata" finished-at="2022-09-27T13:20:56 IST" duration-ms="3292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[havi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tester]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+        <test-method signature="post(java.lang.String,java.lang.String)[pri:0, instance:allianz.example_3_Post@6283d8b8]" started-at="2022-09-27T13:20:56 IST" name="post" data-provider="userdata" finished-at="2022-09-27T13:20:57 IST" duration-ms="1050" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vengaya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dev]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+        <test-method signature="post(java.lang.String,java.lang.String)[pri:0, instance:allianz.example_3_Post@6283d8b8]" started-at="2022-09-27T13:20:57 IST" name="post" data-provider="userdata" finished-at="2022-09-27T13:20:57 IST" duration-ms="632" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[madhu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CEO]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+        <test-method signature="post(java.lang.String,java.lang.String)[pri:0, instance:allianz.example_3_Post@6283d8b8]" started-at="2022-09-27T13:20:57 IST" name="post" data-provider="userdata" finished-at="2022-09-27T13:20:58 IST" duration-ms="769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yogesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Common man]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- allianz.example_3_Post -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
